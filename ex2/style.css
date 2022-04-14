@@ -1,0 +1,9 @@
+body{
+    background-color: aquamarine;
+}
+
+p {
+    text-indent: 50pt;
+    font-size: 20pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
